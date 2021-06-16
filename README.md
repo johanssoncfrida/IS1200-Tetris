@@ -2,7 +2,7 @@
 
 Assignment in course IS1200- Datateknik
 
-The project should be done on a [ChipKIT Uno32](http://www.digilentinc.com/Products/Detail.cfm?Prod=CHIPKIT-UNO32) or a [ChipKIT uC32] (http://store.digilentinc.com/chipkit-uc32-basic-microcontroller-board-with-uno-r3-headers/) development board together with a [ChipKIT Basic I/O](http://www.digilentinc.com/Products/Detail.cfm?&Prod=CHIPKIT-BASIC-IO-SHIELD)shield (see manuals on the Literature and Resources page) or other electronics that are connected to the board. 
+The project should be done on a [ChipKIT Uno32](http://www.digilentinc.com/Products/Detail.cfm?Prod=CHIPKIT-UNO32) or a [ChipKIT uC32](http://store.digilentinc.com/chipkit-uc32-basic-microcontroller-board-with-uno-r3-headers/) development board together with a [ChipKIT Basic I/O shield](http://www.digilentinc.com/Products/Detail.cfm?&Prod=CHIPKIT-BASIC-IO-SHIELD) (see manuals on the Literature and Resources page) or other electronics that are connected to the board. 
 
 ### Requirements of the project
 
